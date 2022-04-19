@@ -1,0 +1,14 @@
+
+.image {
+  height: 400px;
+  width: 675px;
+  object-fit: cover;
+  justify-content: center;
+}
+
+.img-thumbnail {
+  height: 100%;
+  width: 50%;
+  object-fit: cover;
+  margin-bottom: 20px;
+}
